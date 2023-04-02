@@ -1,7 +1,7 @@
 <template>
 	<header class="header">
 		<router-link to="/" class="header__logo">
-			<img src="logo.svg" alt="учет.kz" class="header__logo" />
+			<img src="/logo.svg" alt="учет.kz" class="header__logo" />
 		</router-link>
 		<TheFavorite classNames="header__favorite" />
 		<TheBasketButton />
