@@ -1,0 +1,112 @@
+[
+	{
+		"id": 1,
+		"name": "Ноутбук Asus ROG Zephyrus M16",
+		"img": "/images/item_1.webp",
+		"category": "notebook",
+		"description": "Asus ROG Zephyrus M16 GU603ZU-N4012 16QHD Intel® Core™ i7-12700H/16GB/SSD 512GB/NVIDIA® GeForce RTX™4050-6GB/Dos/Gray(90NR0H43-M00310)",
+		"price": "799990",
+		"quantity": "7",
+		"n_order": "0"
+	},
+	{
+		"id": 2,
+		"name": "Apple MacBook Pro",
+		"img": "/images/item_2.webp",
+		"category": "notebook",
+		"description": "Ноутбук Apple MacBook Pro 16.2, A2780 Retina XDR, M2 Pro/16GB/SSD 1TB/Grey/(MNW93RU/A)",
+		"price": "1699990",
+		"quantity": "30",
+		"n_order": "0"
+	},
+	{
+		"id": 3,
+		"name": "Asus Vivobook Pro 16X",
+		"img": "/images/item_3.webp",
+		"category": "notebook",
+		"description": "Ноутбук Asus Vivobook Pro 16X M7601RM-MX070W 16,0 OLED AMD Ryzen™ 9 6900HX/16Gb/SSD 1TB/NVIDIA GeForce RTX 3060 - 6Gb/Win11/Black(90NB0YY2-M00310)",
+		"price": "929990",
+		"quantity": "8",
+		"n_order": "0"
+	},
+	{
+		"id": 4,
+		"name": "Lenovo IP3 15,6",
+		"img": "/images/item_4.webp",
+		"category": "notebook",
+		"description": "Ноутбук Lenovo IP3 15,6 FHD/Ryzen 5-5625U/8gb/256gb/Dos (82RN00CVRK)",
+		"price": "328990",
+		"quantity": "13",
+		"n_order": "0"
+	},
+	{
+		"id": 5,
+		"name": "TWS Charome A15s",
+		"img": "/images/item_5.webp",
+		"category": "headphones",
+		"description": "TWS Charome A15s",
+		"price": "10990",
+		"quantity": "400",
+		"n_order": "0"
+	},
+	{
+		"id": 6,
+		"name": "Marshall Minor III",
+		"img": "/images/item_6.webp",
+		"category": "headphones",
+		"description": "Marshall Minor III",
+		"price": "109890",
+		"quantity": "75",
+		"n_order": "0"
+	},
+	{
+		"id": 7,
+		"name": "HyperX Cloud Flight PS4 4P5H6AA",
+		"img": "/images/item_7.webp",
+		"category": "headphones",
+		"description": "HyperX Cloud Flight PS4 4P5H6AA",
+		"price": "74990",
+		"quantity": "50",
+		"n_order": "0"
+	},
+	{
+		"id": 8,
+		"name": "Vivo Zeblaze Btalk Green",
+		"img": "/images/item_8.webp",
+		"category": "smartwatch",
+		"description": "Vivo Zeblaze Btalk Green",
+		"price": "29900",
+		"quantity": "12",
+		"n_order": "0"
+	},
+	{
+		"id": 9,
+		"name": "Xiaomi Kieslect Smart Calling Whatch Kr черный",
+		"img": "/images/item_9.webp",
+		"category": "smartwatch",
+		"description": "Xiaomi Kieslect Smart Calling Whatch Kr черный",
+		"price": "34990",
+		"quantity": "18",
+		"n_order": "0"
+	},
+	{
+		"id": 10,
+		"name": "Garmin FORERUNNER 265S",
+		"img": "/images/item_8.webp",
+		"category": "smartwatch",
+		"description": "Garmin FORERUNNER 265S, черно-желтый, 010-02810-13",
+		"price": "260890",
+		"quantity": "40",
+		"n_order": "0"
+	},
+	{
+		"id": 11,
+		"name": "Oрро Watch Free 41 mm Black",
+		"img": "/images/item_11.webp",
+		"category": "smartwatch",
+		"description": "Oрро Watch Free 41 mm Black",
+		"price": "44960",
+		"quantity": "10",
+		"n_order": "0"
+	}
+]
