@@ -2,6 +2,9 @@
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
+## Небольшое уточнение
+проект выполнен на Vue3, вместое Vue2 (насколько я знаю vue2 уже считается legace), а так же вместо vuex используется pinia (сам vue рекомендует его использование)
+
 ## Setup
 
 Make sure to install the dependencies:
